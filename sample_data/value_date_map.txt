@@ -1,0 +1,12 @@
+"文" = "Author"
+"著" = "Author"
+"原著" = "Author"
+"絵" = "Illustrator"
+"訳" = "Translator"
+"編" = "Editor"
+
+---
+
+meiji = "明" (+1867)
+taisho = "大正" (+1911)
+showa = "昭和" (+1925)

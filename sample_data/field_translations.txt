@@ -1,0 +1,16 @@
+"URL" : "URL",
+"タイトル" : "title",
+"巻次" : "volume",
+"シリーズ" : "series",
+"版表示" : "edition",
+"著者" : "creator",
+"出版者" : "publisher",
+"出版年" : "date_issued,"
+"ISBN" : "ISBN",
+"冊数（ページ数・大きさ":"extent",
+"公開範囲": "access_restrictions",
+"NDC分類": "ndc_subject_number"
+"NDC分類（第８版）" : "ndc8_subject_id",
+"NDC分類（第９版）" : "ndc9_subject_id","
+"NDLC分類":"ndlc_subject_id",
+"件名（NDLSH）" : "ndlsh_subject"
