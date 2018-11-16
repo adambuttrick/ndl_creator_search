@@ -9,5 +9,6 @@ Script assumes your searching the data for books that are available online from 
 The representation of creators in the underlying data mushes together authors, illustrators, editors, and translator into a single field, which the script attempts to sort out. Dates are also converted from the Japanese imperial format into something like ISO 8601. 
 
 # Usage:
+Python 3 to handle Unicode correctly.
 
 search.py (creator list).txt (ndl dataset).tsv
