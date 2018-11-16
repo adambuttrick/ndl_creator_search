@@ -10,4 +10,4 @@ The representation of creators in the underlying data mushes together authors, i
 
 # Usage:
 
-search.py (creator list).txt (ndl dataset).txv
+search.py (creator list).txt (ndl dataset).tsv
